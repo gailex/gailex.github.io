@@ -120,7 +120,10 @@ Buenas intenciones y bla, bla, bla, bla, bla...
       </mtd>
     </mtr>
   </mtable>
+  </mfenced>
 </math>
+	
+---
 
 	
 #### Un determinante
