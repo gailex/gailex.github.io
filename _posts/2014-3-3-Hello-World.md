@@ -12,7 +12,7 @@ Buenas intenciones y bla, bla, bla, bla, bla...
 &#x2211; x<sup>n</sup>
 
 ## Más fórmulas
-<math>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
   <munderover>
     <mo>&int;</mo>
     <mi>a</mi>
@@ -31,6 +31,18 @@ Buenas intenciones y bla, bla, bla, bla, bla...
   <mi>dx</mi>
 </math>
 
+### Y más
+<math>
+  <mfrac>
+    <mrow>
+      <mi>a</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>b</mi>
+  </mfrac>
+</math>
+	
 
 // some contents
 {% include disqus.html %}
