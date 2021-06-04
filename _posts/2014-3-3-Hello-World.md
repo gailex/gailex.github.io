@@ -1,9 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Entrada inicial
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+# Introducción
+Aquí va el texto de la introducción, donde hacemos un avance del contenido del artículo.
+
+# Propósito general
+Buenas intenciones y bla, bla, bla, bla, bla...
+
+&#x2211; x<sup>n</sup>
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
