@@ -9,7 +9,6 @@ Aquí va el texto de la introducción, donde hacemos un avance del contenido del
 # Propósito general
 Buenas intenciones y bla, bla, bla, bla, bla...
 
-&#x2211; x<sup>n</sup>
 <math>
   <munderover>
     <mo>&int;</mo>
@@ -79,6 +78,13 @@ Buenas intenciones y bla, bla, bla, bla, bla...
     <mi>b</mi>
   </mfrac>
 </math>
+
+#### Ahora una tabla o matriz
+
+1 | 2 | 3
+4 | 5 | 6
+7 | 8 | 9
+
 	
 ---
 
