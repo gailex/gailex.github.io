@@ -81,9 +81,11 @@ Buenas intenciones y bla, bla, bla, bla, bla...
 
 #### Ahora una tabla o matriz
 
-| 1 | 2 | 3 |
-| 4 | 5 | 6 |
-| 7 | 8 | 9 |
+<table>
+	<tr><td>1</td><td>2</td><td>3</td></tr>
+	<tr><td>4</td><td>5</td><td>6</td></tr>
+	<tr><td>7</td><td>8</td><td>9</td></tr>
+</table>
 
 	
 ---
