@@ -79,14 +79,198 @@ Buenas intenciones y bla, bla, bla, bla, bla...
   </mfrac>
 </math>
 
-#### Ahora una tabla o matriz
+#### Ahora una matriz
 
-<table>
-	<tr><td>1</td><td>2</td><td>3</td></tr>
-	<tr><td>4</td><td>5</td><td>6</td></tr>
-	<tr><td>7</td><td>8</td><td>9</td></tr>
-</table>
+<math>
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfenced>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mn>1</mn>
+      </mtd>
+      <mtd>
+        <mn>0</mn>
+      </mtd>
+      <mtd>
+        <mn>0</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mn>0</mn>
+      </mtd>
+      <mtd>
+        <mn>1</mn>
+      </mtd>
+      <mtd>
+        <mn>0</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mn>0</mn>
+      </mtd>
+      <mtd>
+        <mn>0</mn>
+      </mtd>
+      <mtd>
+        <mn>1</mn>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
 
+	
+#### Un determinante
+<math>
+  <mi>det A</mi>
+  <mo>=</mo>
+  <mfenced open='|' close='|'>
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mn>1</mn>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mn>1</mn>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mtd>
+      <mtd><mi>&#x2026;</mi>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mn>1</mn>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd></mtd>
+      <mtd><mi>&#x22ee;</mi>
+      </mtd>
+    </mtr>
+    <mtr mathcolor='#00cc00'>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mi>j</mi>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mi>j</mi>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mtd>
+      <mtd><mi>&#x2026;</mi>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mi>j</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd></mtd>
+      <mtd><mi>&#x22ee;</mi>
+      </mtd>
+    </mtr>
+    <mtr mathcolor='#0000cc'>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mi>k</mi>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mi>k</mi>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mtd>
+      <mtd><mi>&#x2026;</mi>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mi>k</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd></mtd>
+      <mtd><mi>&#x22ee;</mi>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mi>n</mi>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mi>n</mi>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mtd>
+      <mtd><mi>&#x2026;</mi>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mi>n</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mtd>
+    </mtr>
+  </mtable>
+  </mfenced>
+</math>
 	
 ---
 
