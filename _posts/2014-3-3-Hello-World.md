@@ -12,24 +12,24 @@ Buenas intenciones y bla, bla, bla, bla, bla...
 &#x2211; x<sup>n</sup>
 
 ## Más fórmulas
-<math xmlns="http://www.w3.org/1998/Math/MathML">
-  <munderover>
-    <mo>&int;</mo>
-    <mi>a</mi>
-    <mi>b</mi>
-  </munderover>
-  <mfenced separators=''>
-    <mn>5</mn>
-    <mi>x</mi>
-    <mo>+</mo>
-    <mn>2</mn>
-    <mi>sin</mi>
-    <mfenced separators=''>
-      <mi>x</mi>
-    </mfenced>
-  </mfenced>
-  <mi>dx</mi>
-</math>
+<m:math>
+  <m:munderover>
+    <m:mo>&int;</mo>
+    <m:mi>a</m:mi>
+    <m:mi>b</m:mi>
+  </m:munderover>
+  <m:mfenced separators=''>
+    <m:mn>5</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>sin</m:mi>
+    <m:mfenced separators=''>
+      <m:mi>x</m:mi>
+    </m:mfenced>
+  </m:mfenced>
+  <m:mi>dx</m:mi>
+</m:math>
 
 ### Y más
 <math>
