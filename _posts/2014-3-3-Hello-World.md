@@ -80,7 +80,7 @@ Buenas intenciones y bla, bla, bla, bla, bla...
   </mfrac>
 </math>
 	
-
+---
 
 {% include disqus.html %}
 
