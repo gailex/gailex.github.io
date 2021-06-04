@@ -47,6 +47,8 @@ Buenas intenciones y bla, bla, bla, bla, bla...
     </msub>
   </mfenced>
 </math>
+
+## Otro sumatorio
 <math display='inline'>
   <munderover>
     <mo>&Sum;</mo>
@@ -66,7 +68,7 @@ Buenas intenciones y bla, bla, bla, bla, bla...
 </math>
 		
 
-### Y más
+### Y una fracción
 <math>
   <mfrac>
     <mrow>
@@ -79,6 +81,6 @@ Buenas intenciones y bla, bla, bla, bla, bla...
 </math>
 	
 
-// some contents
+
 {% include disqus.html %}
-// some contents
+
