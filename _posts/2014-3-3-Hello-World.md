@@ -6,6 +6,8 @@ title: Entrada inicial
 # Introducción
 Aquí va el texto de la introducción, donde hacemos un avance del contenido del artículo.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rv6r5K9con8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Propósito general
 Buenas intenciones y bla, bla, bla, bla, bla...
 
